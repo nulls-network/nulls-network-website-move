@@ -1,0 +1,558 @@
+@keyframes static {
+    0% {
+        background-position: 4800% 6500%;
+    }
+
+    1% {
+        background-position: 3100% 1500%;
+    }
+
+    2% {
+        background-position: 3900% 2400%;
+    }
+
+    3% {
+        background-position: 2200% 2300%;
+    }
+
+    4% {
+        background-position: 7300% 4300%;
+    }
+
+    5% {
+        background-position: 7800% 1100%;
+    }
+
+    6% {
+        background-position: 6800% 4700%;
+    }
+
+    7% {
+        background-position: 5600% 4200%;
+    }
+
+    8% {
+        background-position: 4800% 6400%;
+    }
+
+    9% {
+        background-position: 4500% 2400%;
+    }
+
+    10% {
+        background-position: 5600% 3400%;
+    }
+
+    11% {
+        background-position: 5900% 4300%;
+    }
+
+    12% {
+        background-position: 6100% 300%;
+    }
+
+    13% {
+        background-position: 2700% 3000%;
+    }
+
+    14% {
+        background-position: 5600% 6400%;
+    }
+
+    15% {
+        background-position: 8400% 7400%;
+    }
+
+    16% {
+        background-position: 7600% 4800%;
+    }
+
+    17% {
+        background-position: 600% 9900%;
+    }
+
+    18% {
+        background-position: 1200% 300%;
+    }
+
+    19% {
+        background-position: 7700% 6000%;
+    }
+
+    20% {
+        background-position: 9500% 4900%;
+    }
+
+    21% {
+        background-position: 1500% 7500%;
+    }
+
+    22% {
+        background-position: 3400% 9900%;
+    }
+
+    23% {
+        background-position: 9000% 400%;
+    }
+
+    24% {
+        background-position: 4200% 5000%;
+    }
+
+    25% {
+        background-position: 3400% 3900%;
+    }
+
+    26% {
+        background-position: 6700% 2900%;
+    }
+
+    27% {
+        background-position: 7800% 2900%;
+    }
+
+    28% {
+        background-position: 7600% 6000%;
+    }
+
+    29% {
+        background-position: 3100% 5100%;
+    }
+
+    30% {
+        background-position: 4300% 5100%;
+    }
+
+    31% {
+        background-position: 6300% 5700%;
+    }
+
+    32% {
+        background-position: 6700% 2800%;
+    }
+
+    33% {
+        background-position: 2200% 7700%;
+    }
+
+    34% {
+        background-position: 9100% 9200%;
+    }
+
+    35% {
+        background-position: 8700% 3800%;
+    }
+
+    36% {
+        background-position: 2200% 1500%;
+    }
+
+    37% {
+        background-position: 5000% 5000%;
+    }
+
+    38% {
+        background-position: 6300% 4200%;
+    }
+
+    39% {
+        background-position: 1100% 8600%;
+    }
+
+    40% {
+        background-position: 9000% 3300%;
+    }
+
+    41% {
+        background-position: 2300% 5100%;
+    }
+
+    42% {
+        background-position: 4000% 7400%;
+    }
+
+    43% {
+        background-position: 6100% 800%;
+    }
+
+    44% {
+        background-position: 5300% 9000%;
+    }
+
+    45% {
+        background-position: 3300% 100%;
+    }
+
+    46% {
+        background-position: 2600% 100%;
+    }
+
+    47% {
+        background-position: 2300% 8800%;
+    }
+
+    48% {
+        background-position: 1200% 5900%;
+    }
+
+    49% {
+        background-position: 8700% 3900%;
+    }
+
+    50% {
+        background-position: 1000% 9300%;
+    }
+
+    51% {
+        background-position: 5700% 1500%;
+    }
+
+    52% {
+        background-position: 6600% 9500%;
+    }
+
+    53% {
+        background-position: 600% 1700%;
+    }
+
+    54% {
+        background-position: 3800% 200%;
+    }
+
+    55% {
+        background-position: 7100% 1400%;
+    }
+
+    56% {
+        background-position: 7500% 2400%;
+    }
+
+    57% {
+        background-position: 5000% 3000%;
+    }
+
+    58% {
+        background-position: 6500% 4300%;
+    }
+
+    59% {
+        background-position: 6400% 600%;
+    }
+
+    60% {
+        background-position: 8100% 9100%;
+    }
+
+    61% {
+        background-position: 7100% 7200%;
+    }
+
+    62% {
+        background-position: 6800% 5200%;
+    }
+
+    63% {
+        background-position: 1900% 800%;
+    }
+
+    64% {
+        background-position: 7300% 2500%;
+    }
+
+    65% {
+        background-position: 3700% 5600%;
+    }
+
+    66% {
+        background-position: 8700% 3500%;
+    }
+
+    67% {
+        background-position: 600% 1400%;
+    }
+
+    68% {
+        background-position: 100% 6600%;
+    }
+
+    69% {
+        background-position: 9100% 8000%;
+    }
+
+    70% {
+        background-position: 2800% 100%;
+    }
+
+    71% {
+        background-position: 7400% 2700%;
+    }
+
+    72% {
+        background-position: 7200% 5400%;
+    }
+
+    73% {
+        background-position: 5500% 500%;
+    }
+
+    74% {
+        background-position: 9200% 2700%;
+    }
+
+    75% {
+        background-position: 1200% 3400%;
+    }
+
+    76% {
+        background-position: 2100% 5700%;
+    }
+
+    77% {
+        background-position: 6300% 7400%;
+    }
+
+    78% {
+        background-position: 1700% 5600%;
+    }
+
+    79% {
+        background-position: 7500% 5300%;
+    }
+
+    80% {
+        background-position: 5100% 2400%;
+    }
+
+    81% {
+        background-position: 7100% 5800%;
+    }
+
+    82% {
+        background-position: 7000% 4800%;
+    }
+
+    83% {
+        background-position: 6000% 3500%;
+    }
+
+    84% {
+        background-position: 7200% 8800%;
+    }
+
+    85% {
+        background-position: 2800% 5900%;
+    }
+
+    86% {
+        background-position: 5200% 6400%;
+    }
+
+    87% {
+        background-position: 3900% 6800%;
+    }
+
+    88% {
+        background-position: 3200% 5700%;
+    }
+
+    89% {
+        background-position: 1800% 500%;
+    }
+
+    90% {
+        background-position: 2900% 8400%;
+    }
+
+    91% {
+        background-position: 5800% 6700%;
+    }
+
+    92% {
+        background-position: 300% 2800%;
+    }
+
+    93% {
+        background-position: 2300% 8900%;
+    }
+
+    94% {
+        background-position: 1900% 4700%;
+    }
+
+    95% {
+        background-position: 5000% 4500%;
+    }
+
+    96% {
+        background-position: 4400% 7400%;
+    }
+
+    97% {
+        background-position: 6200% 7900%;
+    }
+
+    98% {
+        background-position: 8600% 7000%;
+    }
+}
+
+@keyframes noise {
+
+    0%,
+    100% {
+        background-position: 0 0;
+    }
+
+    10% {
+        background-position: -5% -10%;
+    }
+
+    20% {
+        background-position: -15% 5%;
+    }
+
+    30% {
+        background-position: 7% -25%;
+    }
+
+    40% {
+        background-position: 20% 25%;
+    }
+
+    50% {
+        background-position: -25% 10%;
+    }
+
+    60% {
+        background-position: 15% 5%;
+    }
+
+    70% {
+        background-position: 0 15%;
+    }
+
+    80% {
+        background-position: 25% 35%;
+    }
+
+    90% {
+        background-position: -10% 10%;
+    }
+}
+
+
+@keyframes jitter {
+    0% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(0);
+    }
+
+    50.1% {
+        transform: translateX(0.1em) skew(40deg);
+    }
+
+    50.2% {
+        transform: translateX(-0.2em) skew(-40deg);
+    }
+
+    50.3% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@-webkit-keyframes glitch {
+    0% {
+        transform: rotate(0deg) translate(0.11rem) rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg) translate(0.11rem) rotate(-360deg);
+    }
+}
+
+@keyframes glitch {
+    0% {
+        transform: rotate(0deg) translate(0.11rem) rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg) translate(0.11rem) rotate(-360deg);
+    }
+}
+
+
+@keyframes rgbText {
+    0% {
+        text-shadow: -1px 1px 8px rgba(255, 255, 255, 0.6), 1px -1px 8px rgba(255, 255, 235, 0.7), 0px 0 1px rgba(251, 0, 231, 0.8), 0 0px 3px rgba(0, 233, 235, 0.8), 0px 0 3px rgba(0, 242, 14, 0.8), 0 0px 3px rgba(244, 45, 0, 0.8), 0px 0 3px rgba(59, 0, 226, 0.8);
+    }
+
+    25% {
+        text-shadow: -1px 1px 8px rgba(255, 255, 255, 0.6), 1px -1px 8px rgba(255, 255, 235, 0.7), 0px 0 1px rgba(251, 0, 231, 0.8), 0 0px 3px rgba(0, 233, 235, 0.8), 0px 0 3px rgba(0, 242, 14, 0.8), 0 0px 3px rgba(244, 45, 0, 0.8), 0px 0 3px rgba(59, 0, 226, 0.8);
+    }
+
+    45% {
+        text-shadow: -1px 1px 8px rgba(255, 255, 255, 0.6), 1px -1px 8px rgba(255, 255, 235, 0.7), 5px 0 1px rgba(251, 0, 231, 0.8), 0 5px 1px rgba(0, 233, 235, 0.8), -5px 0 1px rgba(0, 242, 14, 0.8), 0 -5px 1px rgba(244, 45, 0, 0.8), 5px 0 1px rgba(59, 0, 226, 0.8);
+    }
+
+    50% {
+        text-shadow: -1px 1px 8px rgba(255, 255, 255, 0.6), 1px -1px 8px rgba(255, 255, 235, 0.7), -5px 0 1px rgba(251, 0, 231, 0.8), 0 -5px 1px rgba(0, 233, 235, 0.8), 5px 0 1px rgba(0, 242, 14, 0.8), 0 5px 1px rgba(244, 45, 0, 0.8), -5px 0 1px rgba(59, 0, 226, 0.8);
+    }
+
+    55% {
+        text-shadow: -1px 1px 8px rgba(255, 255, 255, 0.6), 1px -1px 8px rgba(255, 255, 235, 0.7), 0px 0 3px rgba(251, 0, 231, 0.8), 0 0px 3px rgba(0, 233, 235, 0.8), 0px 0 3px rgba(0, 242, 14, 0.8), 0 0px 3px rgba(244, 45, 0, 0.8), 0px 0 3px rgba(59, 0, 226, 0.8);
+    }
+
+    90% {
+        text-shadow: -1px 1px 8px rgba(255, 255, 255, 0.6), 1px -1px 8px rgba(255, 255, 235, 0.7), -5px 0 1px rgba(251, 0, 231, 0.8), 0 5px 1px rgba(0, 233, 235, 0.8), 5px 0 1px rgba(0, 242, 14, 0.8), 0 -5px 1px rgba(244, 45, 0, 0.8), 5px 0 1px rgba(59, 0, 226, 0.8);
+    }
+
+    100% {
+        text-shadow: -1px 1px 8px rgba(255, 255, 255, 0.6), 1px -1px 8px rgba(255, 255, 235, 0.7), 5px 0 1px rgba(251, 0, 231, 0.8), 0 -5px 1px rgba(0, 233, 235, 0.8), -5px 0 1px rgba(0, 242, 14, 0.8), 0 5px 1px rgba(244, 45, 0, 0.8), -5px 0 1px rgba(59, 0, 226, 0.8);
+    }
+}
+
+@keyframes type {
+
+    0%,
+    19% {
+        opacity: 0;
+    }
+
+    20%,
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes jitter {
+    0% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(0);
+    }
+
+    50.1% {
+        transform: translateX(0.1em) skew(40deg);
+    }
+
+    50.2% {
+        transform: translateX(-0.2em) skew(-40deg);
+    }
+
+    50.3% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
