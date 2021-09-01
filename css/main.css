@@ -408,6 +408,10 @@ div.withshadow {
     max-width: 960px;
   }
 
+  .main-container {
+    padding-top: 30px;
+  }
+
   .title-box {
     height: 220px;
   }
@@ -457,6 +461,10 @@ div.withshadow {
   .container {
     max-width: 1140px;
   }
+  
+  .main-container {
+    padding-top: 40px;
+  }
 
   .title-box {
     height: 230px;
@@ -503,6 +511,10 @@ div.withshadow {
   .container-sm,
   .container {
     max-width: 1320px;
+  }
+
+  .main-container {
+    padding-top: 50px;
   }
 
   .title-box {
@@ -553,6 +565,10 @@ div.withshadow {
   .container-sm,
   .container {
     max-width: 1920px;
+  }
+
+  .main-container {
+    padding-top: 120px;
   }
 
   .title-box {
